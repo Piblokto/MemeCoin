@@ -1,1 +1,1 @@
-# MemeCoin
+# DOGECOIN Price Check
